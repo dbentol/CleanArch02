@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="CleanArch02.Domain/CleanArch02.Domain.csproj" />
+</Solution>
